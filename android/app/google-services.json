@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "225431760087",
+    "firebase_url": "https://apps-1bac3-default-rtdb.firebaseio.com",
+    "project_id": "apps-1bac3",
+    "storage_bucket": "apps-1bac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225431760087:android:08bb8ffda432dfcf36d492",
+        "android_client_info": {
+          "package_name": "com.jhordyaguas.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225431760087-4h9bldiagvl1sk3inrt4nu9223j5f87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RSJSKrObBH_oS53gmYUQ9xiBjzu1UDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225431760087-4h9bldiagvl1sk3inrt4nu9223j5f87a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225431760087:android:3c070138deccd88936d492",
+        "android_client_info": {
+          "package_name": "com.jhordyaguas.topografia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225431760087-4h9bldiagvl1sk3inrt4nu9223j5f87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RSJSKrObBH_oS53gmYUQ9xiBjzu1UDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225431760087-4h9bldiagvl1sk3inrt4nu9223j5f87a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225431760087:android:c431d525517bc23736d492",
+        "android_client_info": {
+          "package_name": "io.ionic.jhblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225431760087-ha7cdfudcj6rvi03b3egt0bd2p6joada.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.jhblog",
+            "certificate_hash": "08ea3fe1c2fe2936e33655d895944c3d7f115648"
+          }
+        },
+        {
+          "client_id": "225431760087-4h9bldiagvl1sk3inrt4nu9223j5f87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RSJSKrObBH_oS53gmYUQ9xiBjzu1UDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225431760087-4h9bldiagvl1sk3inrt4nu9223j5f87a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
