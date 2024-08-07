@@ -1,6 +1,6 @@
 # App Topografia
 
-App Topografia es una aplicación Flutter desplegada en Firebase Hosting y Android que permite a los usuarios crear y gestionar salas para topógrafos, con funcionalidades de ubicación en tiempo real y métricas geográficas.
+App Topografia es una aplicación Flutter desplegada en Firebase Hosting y Android que permite a los Administradores crear y gestionar salas para topógrafos, con funcionalidades de ubicación en tiempo real y métricas geográficas.
 
 ## Deploy
 Hosting URL: [https://apps-1bac3.web.app](https://apps-1bac3.web.app)<br>
