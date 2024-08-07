@@ -142,6 +142,8 @@ App: app-topografia.apk
 ### Métricas Geográficas
 
 - El administrador y usuarios pueden calcular el área y perímetro de un polígono formado por las ubicaciones de los usuarios en la sala.
+  
+![image](https://github.com/user-attachments/assets/b2586183-7a24-44fe-acbf-c75d02ac2d4e)
 
 ## Autores
 
